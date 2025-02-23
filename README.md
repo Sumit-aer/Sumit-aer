@@ -12,8 +12,8 @@
 - *Version Control:* Git & GitHub  
 
 ## 📌 Projects  
-🔹 *[Project 1 Name](GitHub Link)* – Short description  
-🔹 *[Project 2 Name](GitHub Link)* – Short description  
+🔹 *[Project 1 Name](Comming soon...)* – Comming soon...  
+🔹 *[Project 2 Name](Comming soon...)* – Comming soon...  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/%20sumit-kumar-473697352%20Vanity%20URL%20name)  
