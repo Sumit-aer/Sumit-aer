@@ -16,7 +16,7 @@
 🔹 *[Project 2 Name](Comming soon...)* – Comming soon...  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://www.linkedin.com/in/%20sumit-kumar-473697352%20Vanity%20URL%20name)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)](https://in.linkedin.com/in/sumit-kumar-473697325)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Sumit-aer)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](http://www.youtube.com/@Storiespedia-g4i)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=instagram&logoColor=white)](https://www.instagram.com/sumit.aer/#)
